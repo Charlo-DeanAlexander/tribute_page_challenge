@@ -1,4 +1,4 @@
-# tribute_page_challenge
+# Freecodecamp.org Challenge #1- Tribute Page
 
 ## Purpose:
 
