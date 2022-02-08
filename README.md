@@ -6,3 +6,6 @@ The purpose of this project is to complete the freecodecamp.org response web des
 
 ## Challenge: 
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+
+## Result:
+[Tribute Page Challenge - Github Pages](https://charlo-deanalexander.github.io/personal_portfolio_freecodecamp/)
